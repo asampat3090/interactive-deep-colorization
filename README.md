@@ -1,3 +1,4 @@
+[![Datmo Model](http://preview.datmo.io/anand/interactive-deep-colorization/badge.svg)](http://preview.datmo.io/anand/interactive-deep-colorization)
 
 # Interactive Deep Colorization
 
