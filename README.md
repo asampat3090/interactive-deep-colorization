@@ -3,7 +3,7 @@
 # Interactive Deep Colorization
 
 ### [[Project Page]](https://richzhang.github.io/ideepcolor/) [[Paper]](https://arxiv.org/abs/1705.02999) [[Demo Video]](https://youtu.be/eL5ilZgM89Q) [[Seminar Talk]](https://www.youtube.com/watch?v=FTzcFsz2xqw&feature=youtu.be&t=992)
-<img src='imgs/demo.gif' width=600>
+<img src='https://s3-us-west-1.amazonaws.com/graceful-penguin/anand/demo.gif' width=600>
 
 <!-- This repository contains a Python implementation for user-guided image colorization technique described in the following paper: -->
 [Richard Zhang](https://richzhang.github.io/)\*, [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/)\*, [Phillip Isola](http://people.eecs.berkeley.edu/~isola/), [Xinyang Geng](http://young-geng.xyz/), Angela S. Lin, Tianhe Yu, and [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/).
@@ -35,7 +35,7 @@ bash ./models/fetch_models.sh
 - Install [Caffe](http://caffe.berkeleyvision.org/installation.html) and Python libraries ([OpenCV](http://opencv.org/))
 
 ### (2) Interactive Colorization (Local Hints Network)
-<img src='imgs/teaser_v3.jpg' width=800>
+<img src='https://s3-us-west-1.amazonaws.com/graceful-penguin/anand/teaser_v3.jpg' width=800>
 
 We provide a "barebones" demo in iPython notebook, which does not require QT. We also provide our full GUI demo.
 
@@ -56,7 +56,7 @@ We provide a "barebones" demo in iPython notebook, which does not require QT. We
 
 - User interactions
 
-<img src='./imgs/pad.jpg' width=800>
+<img src='https://s3-us-west-1.amazonaws.com/graceful-penguin/anand/pad.jpg' width=800>
 
 - <b>Adding points</b>: Left-click somewhere on the input pad
 - <b>Moving points</b>: Left-click and hold on a point on the input pad, drag to desired location, and let go
